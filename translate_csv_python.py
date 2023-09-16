@@ -1,4 +1,5 @@
 # Importa pandas library for inmporting CSV
+# Remember, you have to go to google cloud console and generate API key from there
 import pandas as pd 
 
 # Imports the Google Cloud client library
